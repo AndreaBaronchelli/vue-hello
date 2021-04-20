@@ -1,0 +1,27 @@
+/* GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(90deg, #b88d56, #755a2e);
+}
+
+h1 {
+    padding: 30px;
+    padding-top: 0;
+    font-size: 50px;
+    color: darkred;
+}
+
+img {
+    width: 1000px;
+}
